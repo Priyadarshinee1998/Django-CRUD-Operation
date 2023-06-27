@@ -1,1 +1,3 @@
 # Django-CRUD-Operation
+
+I will try to make a small project doing the CRUD Operation of Django for checking my knowlege and I hope you like it..............
